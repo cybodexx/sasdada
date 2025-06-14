@@ -6,7 +6,7 @@ import telegram
 import time
 from keepalive import keep_alive
 keep_alive()
-TOKEN = "7539077469:AAEzS_owRo0o-O51Atc3HA903_sA2M3Q01A"
+TOKEN = "7539077469:AAGsx1yah5ggTa6aCo1niApca3uiPvq0AdU"
 
 VIDEO_TIMER = 100
 UPDATE_INTERVAL = 2
