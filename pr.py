@@ -19,7 +19,7 @@ PRIVATE_CHANNEL_ID = "-1002621336219"
 
 CHANNEL_1 = "https://t.me/+_42u2msUaldlODVl"
 CHANNEL_2 = "https://t.me/CYBOTOOLS"
-PREVIEW_CHANNEL = "https://t.me/ADULT_VIDEOESS"
+PREVIEW_CHANNEL = "https://t.me/+_42u2msUaldlODVl"
 PRIVATE_CHANNEL = "https://t.me/+IA8F0X3Klt8xNzM1"
 
 CHANNEL_ID = PRIVATE_CHANNEL_ID.replace("-100", "")
